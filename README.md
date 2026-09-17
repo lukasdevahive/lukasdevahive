@@ -12,23 +12,23 @@ Based in Belgium 🇧🇪 • Looking for a work-study opportunity in IT
 
 ## 👨‍💻 About me
 
-I'm an IT student currently developing my skills in infrastructure, systems administration and cybersecurity.
+I'm an IT student currently developing my practical skills in IT infrastructure, systems administration and cybersecurity.
 
-I enjoy learning through practical projects and building things rather than focusing only on theory.
+I enjoy learning through hands-on projects, experimenting with technologies and understanding how systems work in practice.
 
 - 🖥️ Interested in IT infrastructure and system administration
-- 🐍 Experience building projects with Python
 - 🌐 Currently improving my networking knowledge
 - 🐧 Learning Linux and Windows administration
 - ⚡ Learning PowerShell and automation
 - 🔐 Developing my cybersecurity fundamentals
-- 🚀 Looking for a work-study opportunity in IT
+- 🤖 Experience building technical projects using AI-assisted development
+- 🚀 Currently looking for a work-study opportunity in IT
 
 ---
 
 ## 🛠️ Technologies
 
-### Used in projects
+### Technologies used in my projects
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -45,23 +45,27 @@ I enjoy learning through practical projects and building things rather than focu
 
 ---
 
-## 🚀 Project
+## 🚀 Featured Project
 
 ### AutoPing
 
-Personal project built to explore automation and AI-assisted customer messaging for automotive dealerships.
+AutoPing is a personal project exploring AI-assisted customer communication for automotive dealerships.
 
-The project includes:
+The goal of the project is to automate responses to common customer questions while allowing a human operator to take over when necessary.
 
-- Python backend
+I built the prototype using AI coding tools extensively for the implementation. My role focused on defining the product, specifying features, testing the application, identifying problems and iterating on the system until the prototype worked as intended.
+
+### The prototype includes
+
 - REST API with FastAPI
-- Database integration
+- Database integration with SQLAlchemy
 - Conversation state management
 - Vehicle information handling
-- Automated responses
+- Automated customer responses
 - Human handoff logic
+- Multi-dealership support
 
-**Tech:** Python • FastAPI • SQLAlchemy • REST APIs
+**Technologies used:** Python • FastAPI • SQLAlchemy • REST APIs • Git • AI-assisted development
 
 > The source code is private because the project is still under development.
 
@@ -69,19 +73,36 @@ The project includes:
 
 ## 📚 Currently learning
 
-I'm currently focusing on:
+I'm currently building my practical knowledge in:
 
-- IT infrastructure
 - Windows administration
-- Linux
+- Linux administration
 - Networking
 - PowerShell
+- IT infrastructure
+- System troubleshooting
 - Cybersecurity fundamentals
+
+I use this GitHub profile to document my progress as I complete practical exercises and projects.
+
+---
+
+## 🎯 Current goal
+
+I'm looking for a work-study opportunity where I can develop real-world experience in areas such as:
+
+- IT infrastructure
+- Systems administration
+- IT support
+- Networking
+- Cybersecurity
+
+My objective is to build a strong technical foundation while gaining professional experience.
 
 ---
 
 ## 📫 Contact
 
-I'm currently looking for a work-study opportunity in IT infrastructure, systems or a related technical field.
+I'm open to work-study opportunities in IT.
 
 Feel free to contact me through GitHub or LinkedIn.
