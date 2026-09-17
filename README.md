@@ -12,74 +12,76 @@ Based in Belgium 🇧🇪 • Looking for a work-study opportunity in IT
 
 ## 👨‍💻 About me
 
-I'm an IT student focused on building practical skills in infrastructure, systems administration and cybersecurity.
+I'm an IT student currently developing my skills in infrastructure, systems administration and cybersecurity.
 
-I enjoy learning by building real projects and working directly with systems rather than only studying theory.
+I enjoy learning through practical projects and building things rather than focusing only on theory.
 
-- 🖥️ Interested in IT Infrastructure & System Administration
+- 🖥️ Interested in IT infrastructure and system administration
+- 🐍 Experience building projects with Python
+- 🌐 Currently improving my networking knowledge
 - 🐧 Learning Linux and Windows administration
-- 🌐 Developing my networking knowledge
-- 🐍 Building projects with Python
-- 🔐 Strengthening my cybersecurity fundamentals
-- 🚀 Currently looking for a work-study opportunity in IT
+- ⚡ Learning PowerShell and automation
+- 🔐 Developing my cybersecurity fundamentals
+- 🚀 Looking for a work-study opportunity in IT
 
 ---
 
 ## 🛠️ Technologies
 
-### Working with
+### Used in projects
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Currently learning
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Project
 
 ### AutoPing
 
-AI-assisted messaging system designed for automotive dealerships.
+Personal project built to explore automation and AI-assisted customer messaging for automotive dealerships.
 
 The project includes:
 
-- REST API built with FastAPI
-- SQLAlchemy database integration
+- Python backend
+- REST API with FastAPI
+- Database integration
 - Conversation state management
-- Vehicle availability and information handling
-- Automated customer responses
-- Human handoff system for complex requests
-- Multi-dealership architecture
+- Vehicle information handling
+- Automated responses
+- Human handoff logic
 
-**Tech:** Python • FastAPI • SQLAlchemy • REST APIs • AI Integration
+**Tech:** Python • FastAPI • SQLAlchemy • REST APIs
 
-> The source code is currently private because the project is under active development.
+> The source code is private because the project is still under development.
 
 ---
 
-## 🎯 Current Focus
+## 📚 Currently learning
 
-I'm currently developing my skills in:
+I'm currently focusing on:
 
-- Linux & Windows administration
+- IT infrastructure
+- Windows administration
+- Linux
 - Networking
 - PowerShell
-- IT infrastructure
 - Cybersecurity fundamentals
-- Automation with Python
-
-My goal is to build a strong technical foundation in IT infrastructure while gaining real professional experience.
 
 ---
 
 ## 📫 Contact
 
-Feel free to connect with me through GitHub or LinkedIn.
+I'm currently looking for a work-study opportunity in IT infrastructure, systems or a related technical field.
+
+Feel free to contact me through GitHub or LinkedIn.
